@@ -1,0 +1,13 @@
+name: NBA_app
+title: NBA_app
+username:
+account: dar-337152118-appshiny-r
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4572216
+bundleId: 4989475
+url: https://dar-337152118-appshiny-r.shinyapps.io/NBA_app/
+when: 1630511063.92649
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: backup.zip|data.R|game_data.feather|game_data.rds|nba_analysis.R|notas codigo R.txt|notas_app_NBA.txt|players.rds|teams_logos.rds|teams_logos_NT.rds
