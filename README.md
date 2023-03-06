@@ -11,4 +11,4 @@ Las diferentes pestañas que contiene son:
 - :medal_sports: **Records** :medal_sports: : estadísticas por partido de cualquier jugador con la posibilidad de filtrar por diferentes características como por ejemplo el número de triples dobles (*dobles figuras*) realizados en su carrera.
 - :fist_right: **Connect** :fist_left: : perfil de LinkedIn y código de github utilizado para la app.
 
-<a href="https://dar-337152118-appshiny-r.shinyapps.io/NBA_app/" target="_blank"><img src="https://github.com/dalerodr/NBA_app/blob/main/image/Basketball_app.JPG" alt="Screenshot"></a>
+<a href="https://dar-337152118-appshiny-r.shinyapps.io/NBA_app/"><img src="https://github.com/dalerodr/NBA_app/blob/main/image/Basketball_app.JPG" alt="Screenshot"></a>
