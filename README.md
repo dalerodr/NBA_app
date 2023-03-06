@@ -2,8 +2,8 @@
 * [**App de baloncesto con datos de la NBA**](https://dar-337152118-appshiny-r.shinyapps.io/NBA_app/)
 
 ## Scripts :books:
-- [**App**](): **código principal** de la app con diferentes pestañas que analiza datos de la NBA desde el año 1975 hasta la actualidad.
-- [**data.R**](): **datos sobre la NBA** que contiene la aplicación.
+- [**App**](https://github.com/dalerodr/NBA_app/blob/main/app.R): **código principal** de la app con diferentes pestañas que analiza datos de la NBA desde el año 1975 hasta la actualidad.
+- [**data.R**](https://github.com/dalerodr/NBA_app/blob/main/data.R): **script que carga las librerías y datos** que contiene la aplicación.
 
 Las diferentes pestañas que contiene son:
 - **Franchise History** :classical_building: : información sobre los jugadores TOP de cada franquicia por Playoffs y/o regular season. Además podemos graficar las estadísticas por año y oponente.
@@ -11,4 +11,4 @@ Las diferentes pestañas que contiene son:
 - **Records** :medal_sports: : estadísticas por partido de cualquier jugador con la posibilidad de filtrar por diferentes características como por ejemplo el número de triples dobles (*dobles figuras*) realizados en su carrera.
 - **Connect** :fist_right: fist_left : perfil de LinkedIn y código de github utilizado para la app.
 
-![Screenshot]()
+![Screenshot](https://github.com/dalerodr/NBA_app/blob/main/image/Basketball_app.JPG)
