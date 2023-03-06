@@ -6,9 +6,9 @@
 - [**data.R**](https://github.com/dalerodr/NBA_app/blob/main/data.R): **script que carga las librerías y datos** que contiene la aplicación.
 
 Las diferentes pestañas que contiene son:
-- **Franchise History** :classical_building: : información sobre los jugadores TOP de cada franquicia por Playoffs y/o regular season. Además podemos graficar las estadísticas por año y oponente.
-- **Big 3** :three: : estadísticas individuales, por parejas y tríos que jugaron juntos en un mismo equipo. 
-- **Records** :medal_sports: : estadísticas por partido de cualquier jugador con la posibilidad de filtrar por diferentes características como por ejemplo el número de triples dobles (*dobles figuras*) realizados en su carrera.
-- **Connect** :fist_right: fist_left : perfil de LinkedIn y código de github utilizado para la app.
+- :classical_building: **Franchise History**: información sobre los jugadores TOP de cada franquicia por Playoffs y/o regular season. Además podemos graficar las estadísticas por año y oponente.
+- :three: **Big 3**: estadísticas individuales, por parejas y tríos que jugaron juntos en un mismo equipo. 
+- :medal_sports: **Records**: estadísticas por partido de cualquier jugador con la posibilidad de filtrar por diferentes características como por ejemplo el número de triples dobles (*dobles figuras*) realizados en su carrera.
+- :fist_right: :fist_left: **Connect**: perfil de LinkedIn y código de github utilizado para la app.
 
 ![Screenshot](https://github.com/dalerodr/NBA_app/blob/main/image/Basketball_app.JPG)
